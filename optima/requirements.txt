@@ -1,0 +1,10 @@
+jupyterlab
+pandas
+
+# pdf related
+tabula-py
+dash
+pypdf
+PyPDF2
+pdfplumber
+
